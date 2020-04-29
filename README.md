@@ -1,5 +1,3 @@
-# gin-sampleapp
-Go / Gin Sample
 
 Execution.
 
